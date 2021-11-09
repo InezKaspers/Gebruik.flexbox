@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(63, 73, 78);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px; }
+
+.container{
+ display: flex;
+  height: 200px;
+  background-color: #f1f1f1;
+    
+}
+
